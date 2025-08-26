@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Cache / temp
+*.cache
+*.tmp
+
+# Data files (optional, যদি প্রজেক্টে huge dataset থাকে)
+data/
+*.csv
+*.json
+*.sqlite
+*.db
+
+# VS Code / IDE
+.vscode/
+.idea/
